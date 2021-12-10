@@ -31,5 +31,5 @@ cependant je n'ai pas voulu aller trop loin vu que j'ai une contrainte de temps.
 
 ### Bilan
 J'ai énormément pris de plaisir à faire ce projet ! 🙂
-J'espère le résultat vous convient et n'hésitez pas à me dire ce que je peux améliorer
+J'espère que le résultat vous convient et n'hésitez pas à me dire ce que je peux améliorer
 
