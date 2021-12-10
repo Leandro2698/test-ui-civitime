@@ -1,8 +1,16 @@
 import React from 'react'
 import './App.css';
+import Routes from './routes/Routes';
+
+
 
 const App = () => {
-    return <div id="temp-style"> Develop your test here </div>
+    return (
+        <div className="app">
+            <Routes/>    
+        </div>
+    )
 }
 
 export default App;
+
